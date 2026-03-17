@@ -137,7 +137,7 @@ urlpatterns = [
 
 
 ## OUTPUT - SERVER SIDE:
-
+![alt text](<Screenshot 2026-03-16 114758.png>)
 
 ## OUTPUT - WEBPAGE:
 ![alt text](<Screenshot 2026-03-16 114610.png>)
